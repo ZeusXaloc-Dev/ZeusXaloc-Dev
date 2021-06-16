@@ -1,5 +1,5 @@
 #         ZeusXaloc-Dev
-## ` Desenvolvedor de Programa em C entre outros!`
+## ` Desenvolvedor de Programa em C/C++`
 ### ____________________________________________________________
 ![boas praticas](https://github.com/ZeusXaloc-Dev/ZeusXaloc-Dev/blob/main/zeusxalocGit.gif)
 
