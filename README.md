@@ -1,6 +1,8 @@
 #         Zeus Xaloc Dev 
 ## Desenvolvedor de Programa em C entre outros!
-Objetivo do meu github é para mostrar meus Projetos conforme meus Aprendizado em C.
+![boas praticas](https://github.com/ZeusXaloc-Dev/ZeusXaloc-Dev/blob/main/zeusxalocGit.gif)
+![top]()
 ### Siga-me ou Entre Em Contato:
-[INSTAGRAM](https://instagram.com/zeusxaloc_dev) | [CONTATO](https://wa.me/+5592999652961)
-![boas praticas]()
+[INSTAGRAM](https://instagram.com/enormityhacking_org) 
+[CONTATO](https://wa.me/+5592999652961)
+
