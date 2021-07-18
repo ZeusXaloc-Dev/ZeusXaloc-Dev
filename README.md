@@ -1,7 +1,6 @@
 #         ZeusXaloc-Dev
 ## Desenvolvedor de Programa em C/C++
 ![walppaper](https://github.com/ZeusXaloc-Dev/OperacaoMatematica/blob/main/Mai_Sakurajima_Holding_C_Programming_Language.png)
-### ____________________________________________________________
 ### Siga-me ou Entre Em Contato:
 [INSTAGRAM](https://instagram.com/enormityhacking_org) 
 
