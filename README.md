@@ -11,8 +11,8 @@
 
 ### Redes Social
 <img src="https://img.shields.io/twitter/follow/EnormityHacking?style=social"/>
+<img src="https://img.shields.io/github/followers/Enormity-Organization?label=Enormity-Organization&style=social"/>
 <img src="https://img.shields.io/github/followers/ZeusXaloc-Dev?label=ZeusXaloc-Dev&style=social"/>
-
 <img src="https://img.shields.io/youtube/channel/subscribers/UCD39rvw1U6oepCY7d0Pl2vA?label=Zeus%20Xaloc%20Dev&style=social"/>
 
 
