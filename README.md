@@ -16,10 +16,10 @@
 <img src="https://img.shields.io/youtube/channel/subscribers/UCD39rvw1U6oepCY7d0Pl2vA?label=Zeus%20Xaloc%20Dev&style=social"/>
 
 
-### Languages 
+### Languages & OS 
 - [x] C language
 - [x] C++ language
-- [ ] outras language
+- [x] arch linux
 
 
 <h1>Amigos & Contribuições ッ</h1>
