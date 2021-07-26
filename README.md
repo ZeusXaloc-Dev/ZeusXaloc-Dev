@@ -19,7 +19,7 @@
 ### Languages & OS 
 - [x] C language
 - [x] C++ language
-- [x] arch linux
+- [x] Arch Linux
 
 
 <h1>Friends & Contributions ッ</h1>
