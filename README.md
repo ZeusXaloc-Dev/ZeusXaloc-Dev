@@ -20,6 +20,7 @@
 - [x] C language
 - [x] C++ language
 - [x] Arch Linux
+- [x] OpenBSD 
 
 
 <h1>Friends & Contributions ッ</h1>
