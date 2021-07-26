@@ -1,15 +1,15 @@
 <h1>Zeus Xaloc Dev🐧</h1>
 <h1 align="center">
-</h1> ➜ Este é meu Github, onde irei hospedar alguns projetos em team ou solo, e aprendizado, siga-me ! ☺</p> 
+</h1> ➜ This is my Github, where I will host some team or solo projects, and learning, follow me! ☺</p> 
 
-### Minha Organização
+### my organization
 <img src="https://img.shields.io/badge/ORG-Enormity%20Hacking-INACTIVE"/>
 <h1> <img alt="Enormity Hacking" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqm4pTcG1sUjAdq1SnJF_tKlYLJVcY7wvRRChhJILRR5SRlAlVgZr2bY368Q9pDy36wIc&usqp=CAU" />
     <br>
         Enormity Hacking 
 </h1> 
 
-### Redes Social
+### Social networks
 <img src="https://img.shields.io/twitter/follow/EnormityHacking?style=social"/>
 <img src="https://img.shields.io/github/followers/Enormity-Organization?label=Enormity-Organization&style=social"/>
 <img src="https://img.shields.io/github/followers/ZeusXaloc-Dev?label=ZeusXaloc-Dev&style=social"/>
@@ -22,7 +22,7 @@
 - [x] arch linux
 
 
-<h1>Amigos & Contribuições ッ</h1>
+<h1>Friends & Contributions ッ</h1>
 <table>
   <tr>
     <td align="center"><a href="https://github.com/SNISS"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/2254731?s=400&u=0ba16a79456c2f250e7579cb388fa18c5c2d7d65&v=4" width="100px;" alt=""/><br /><sub><b>Thomas Dev</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Thomas">👨‍🚀</a></td>
