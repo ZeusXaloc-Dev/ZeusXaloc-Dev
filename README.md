@@ -23,7 +23,7 @@
 - [x] C language
 - [x] C++ language
 - [x] Arch Linux
-- [x] OpenBSD 
+- [x] OpenBSD
 
 
 <h1>Friends & Contributions ッ</h1>
@@ -49,4 +49,4 @@
 <img src="https://img.shields.io/badge/ORG-Enormity%20Hacking-INACTIVE"/>
 <h1> <img alt="Enormity Hacking" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqm4pTcG1sUjAdq1SnJF_tKlYLJVcY7wvRRChhJILRR5SRlAlVgZr2bY368Q9pDy36wIc&usqp=CAU" />
     <br>
-        Enormity Hacking
+       
