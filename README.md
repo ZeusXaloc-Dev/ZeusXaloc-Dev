@@ -2,6 +2,11 @@
 <h1 align="center">
 </h1> ➜ This is my Github, where I will host some team or solo projects, and learning, follow me! ☺</p> 
 
+
+
+  ![Snake animation](https://github.com/ZeusXaloc-Dev/ZeusXaloc-Dev/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 ### my organization
 <img src="https://img.shields.io/badge/ORG-Enormity%20Hacking-INACTIVE"/>
 <h1> <img alt="Enormity Hacking" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqm4pTcG1sUjAdq1SnJF_tKlYLJVcY7wvRRChhJILRR5SRlAlVgZr2bY368Q9pDy36wIc&usqp=CAU" />
