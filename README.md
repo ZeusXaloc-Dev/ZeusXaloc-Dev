@@ -1,26 +1,23 @@
-<h1>Zeus Xaloc Dev🐧</h1>
+<h1>Oi, Sou Zeus Xaloc Dev🐧</h1>
 <h1 align="center">
-</h1> ➜ This is my Github, where I will host some team or solo projects, and learning, follow me! ☺</p> 
+</h1> ➜ This is my Github, where I will host some team or solo projects, and learning, follow me!
 
+ <div>
+  <a href="https://github.com/ZeusXaloc-Dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZeusXaloc-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeusXaloc-Dev&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-
-  ![Snake animation](https://github.com/ZeusXaloc-Dev/ZeusXaloc-Dev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-### my organization
-<img src="https://img.shields.io/badge/ORG-Enormity%20Hacking-INACTIVE"/>
-<h1> <img alt="Enormity Hacking" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqm4pTcG1sUjAdq1SnJF_tKlYLJVcY7wvRRChhJILRR5SRlAlVgZr2bY368Q9pDy36wIc&usqp=CAU" />
-    <br>
-        Enormity Hacking 
-</h1> 
 
-### Social Networking
+## 
+  <a href="https://instagram.com/zeusxalocdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-<img src="https://img.shields.io/twitter/follow/EnormityHacking?style=social"/>
-<img src="https://img.shields.io/github/followers/Enormity-Organization?label=Enormity-Organization&style=social"/>
-<img src="https://img.shields.io/github/followers/ZeusXaloc-Dev?label=ZeusXaloc-Dev&style=social"/>
-<img src="https://img.shields.io/youtube/channel/subscribers/UCD39rvw1U6oepCY7d0Pl2vA?label=Zeus%20Xaloc%20Dev&style=social"/>
+  <a href="https://youtube.com/channel/UCD39rvw1U6oepCY7d0Pl2vA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
+  <a href = "mailto:romaclips15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ### Languages & OS 
 - [x] C language
@@ -48,3 +45,8 @@
 ## Deseja Contribuir?
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5592999652961&text=Olá!!)](https://api.whatsapp.com/send?phone=5567996968737&text=Olá!!)
 <a href="https://instagram.com/zeusxalocdev" target="_blank"><img src="https://img.shields.io/badge/Instagram-7289DA?style=for-the-badge&logo=instagram&logoColor=white" width="77"></a>
+##
+<img src="https://img.shields.io/badge/ORG-Enormity%20Hacking-INACTIVE"/>
+<h1> <img alt="Enormity Hacking" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqm4pTcG1sUjAdq1SnJF_tKlYLJVcY7wvRRChhJILRR5SRlAlVgZr2bY368Q9pDy36wIc&usqp=CAU" />
+    <br>
+        Enormity Hacking
