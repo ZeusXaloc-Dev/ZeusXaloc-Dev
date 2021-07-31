@@ -22,6 +22,7 @@
 ### Languages & OS 
 - [x] C language
 - [x] C++ language
+- [x] JavaScript
 - [x] Arch Linux
 - [x] OpenBSD
 
