@@ -1,4 +1,4 @@
-<h1>Oi, Sou Zeus Xaloc Dev🐧</h1>
+<h1>Oi, Sou Zeus Xaloc🐧</h1>
 <h1 align="center">
 </h1> ➜ This is my Github, where I will host some team or solo projects, and learning, follow me!
 
