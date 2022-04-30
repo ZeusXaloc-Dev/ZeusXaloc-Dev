@@ -44,6 +44,18 @@
 </table>
 
 ## Deseja Contribuir?
+<div id="div_telegram"> <a href="https://t.me/CokTech" target="_blank"> <img src="https://github.com/ZeusXaloc-Dev/ZeusXaloc-Dev/blob/773cbc82a9a92a468075c5978f74844dc9f8e3dc/telegram.png"></a>Telegram</div>   
+
+  <style type="text/css"> 
+   #div_telegram {  
+  position:fixed;  
+  margin:30px; 
+  margin-top: 300px; 
+  z-index:5000; 
+  bottom: 0px; 
+ } 
+</style> 
+
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5592999652961&text=Olá!!)](https://api.whatsapp.com/send?phone=5592999652961&text=Olá!!)
 <a href="https://instagram.com/zeusxalocdev" target="_blank"><img src="https://img.shields.io/badge/Instagram-7289DA?style=for-the-badge&logo=instagram&logoColor=white" width="77"></a>
 ##
