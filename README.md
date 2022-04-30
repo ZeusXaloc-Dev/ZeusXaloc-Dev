@@ -46,6 +46,7 @@
 ## Deseja Contribuir?
 <div id="div_telegram"> <a href="https://t.me/CokTech" target="_blank"> <img src="https://github.com/ZeusXaloc-Dev/ZeusXaloc-Dev/blob/773cbc82a9a92a468075c5978f74844dc9f8e3dc/telegram.png"></a>Telegram</div>   
 
+
   <style type="text/css"> 
    #div_telegram {  
   position:fixed;  
